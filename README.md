@@ -1,6 +1,15 @@
 # LightTrace
+LightTrace is an Adobe Illustrator Extension to design, auto route and balance brightness of multiple LEDs with conductive ink. It consists of 2 parts:
 
-Plugin to design, auto route and balance brightness of multiple LEDs with conductive ink.
+- LedTool: plugin to provide LED shape in toolbox of Illustrator
+- Routing Script: autorouter script to route and balance brightness of all LEDs
+
+Requirements:
+
+- Mac OSX (the script can run on Windows also, however, the LedTool currrently can run on Mac OSX only)
+- Adobe Illustrator (newest is better)
+
+
 
 ##Install
 - Download repository as .zip
