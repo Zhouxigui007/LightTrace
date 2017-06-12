@@ -11,7 +11,7 @@ Requirements:
 
 
 
-##Install
+#Install
 - Download repository as .zip
 - Unzip
 - Open Adobe Illustrator
@@ -21,15 +21,15 @@ Requirements:
 - Restart Adobe Illustrator
 - LedTool plugin has been installed
 
-##Usage
+#Usage
 
-###Placing LED and power pad
+##Placing LED and power pad
 - Choose led tool (Red Led, for example) from toolbox
 - Click on artboard to place LED
 - After placing several LEDs, choose Power Pad
 - Click on artboard to place 1 Power Pad
 
-###Routing script
+##Routing script
 - Select all items on the artboard above
 - Go to `File/Scripts/Other scripts`
 - Browse to file `_RouteTSP.jsx` in the upzipped folder from the Install part
