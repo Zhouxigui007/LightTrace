@@ -7,7 +7,7 @@ LightTrace is an Adobe Illustrator Extension to design, auto route and balance b
 Requirements:
 
 - Mac OSX (the script can run on Windows also, however, the LedTool currrently can run on Mac OSX only)
-- Adobe Illustrator (newest is better)
+- Adobe Illustrator (newest is better). The current stable version is for AI CC 2017, please let me know if you get trouble when using the plugin in newer version of AI.
 
 
 
@@ -22,6 +22,7 @@ Requirements:
 - LedTool plugin has been installed
 
 ##Usage
+
 ###Placing LED and power pad
 - Choose led tool (Red Led, for example) from toolbox
 - Click on artboard to place LED
@@ -31,7 +32,7 @@ Requirements:
 ###Routing script
 - Select all items on the artboard above
 - Go to `File/Scripts/Other scripts`
-- Browse to file _RouteTSP.jsx in the upzipped folder from the Install part
+- Browse to file `_RouteTSP.jsx` in the upzipped folder from the Install part
 - Click open and wait
 
 _Note_: If the result is not satisfying, you may try undo the changes and:
@@ -40,4 +41,4 @@ _Note_: If the result is not satisfying, you may try undo the changes and:
 
 or
 
-- Change `DEFAULT_VOLTAGE` in file GlobalVariables.jsx to a higher value and re-run the script
+- Change `DEFAULT_VOLTAGE` in file `lib/GlobalVariables.jsx` to a higher value and re-run the script
